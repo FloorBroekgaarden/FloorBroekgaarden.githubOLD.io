@@ -1,2 +1,4 @@
 name: Floor Broekgaarden, Horrible Cop
 markdown: kramdown
+
+permalink: /blog/:year/:month/:day/:title
